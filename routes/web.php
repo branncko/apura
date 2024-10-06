@@ -4,6 +4,7 @@ use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SecaoController;
 use App\Http\Controllers\CandidatoController;
 use App\Http\Controllers\ApuracaoController;
+use Illuminate\Support\Facades\Auth;
 
 /*
 |--------------------------------------------------------------------------
